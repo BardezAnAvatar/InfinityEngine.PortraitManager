@@ -6,15 +6,6 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FF019CAC-6D59-42F0-A98B-9A4FC668BF53}"
 EndProject
 Global
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 2
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = http://bardezserver:8080/tfs/defaultcollection
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = IE\u0020Portrait\u0020Manager\\IE\u0020Portrait\u0020Manager.csproj
-		SccProjectName1 = IE\u0020Portrait\u0020Manager
-		SccLocalPath1 = IE\u0020Portrait\u0020Manager
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
 		Release|x86 = Release|x86
